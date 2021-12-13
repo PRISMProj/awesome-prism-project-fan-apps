@@ -12,6 +12,8 @@
   - Luto Piano: Created by the talented Luto herself. You can create your own compositions with the finest Luto noises.
 - https://schedule.prismproject.jp (by @jetri_co)
   - Prism Project Schedule: The official Prism Project Schedule which provides live video information and schedules.
+- https://freelutomilk.github.io/ (By @LoupDuQc)
+  - A totally accurate physic simulation of Luto's amazing boin boin, based on her April first stream.
 
 # Games
 - Something will be listed here via pull request
