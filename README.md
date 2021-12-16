@@ -12,6 +12,8 @@
   - Created by the talented Luto herself. You can create your own compositions with the finest Luto noises.
 - [Prism Project Schedule](https://schedule.prismproject.jp) ([@jetri_co](https://twitter.com/jetri_co))
   - The official Prism Project Schedule which provides live video information and schedules.
+- [Luto Boin Boin](https://freelutomilk.github.io/) ([Source](https://github.com/freelutomilk/freelutomilk.github.io), [@LoupDuQc](https://twitter.com/LoupDuQc))
+  - A totally accurate physic simulation of Luto's amazing boin boin, based on her April first stream.
 
 # Games
 - Something will be listed here via pull request
