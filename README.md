@@ -16,7 +16,8 @@
   - A totally accurate physic simulation of Luto's amazing boin boin, based on her April first stream.
 
 # Games
-- Something will be listed here via pull request
+- [Penpals' Eggsquisite Eggxhibit](https://eternalseraph8.github.io/ppp_game/) ([Source](https://github.com/EternalSeraph8/ppp_game), [@Eternal](https://twitter.com/EternalSeraph88))
+  - A digital art exhibit created for Pina Pengin and the Penpals.
 
 # Disclaimer
 - This is an experimental project
