@@ -18,6 +18,8 @@
 # Games
 - [Penpals' Eggsquisite Eggxhibit](https://eternalseraph8.github.io/ppp_game/) ([Source](https://github.com/EternalSeraph8/ppp_game), [@Eternal](https://twitter.com/EternalSeraph88))
   - A digital art exhibit created for Pina Pengin and the Penpals.
+- [VA-11 HALL-A Mod: Special Episode Dullahan] ([Source](https://github.com/EternalSeraph8/Special-Episode-Dullahan), Art: [@Navietta](https://twitter.com/Navietta), Coding: [@John](https://twitter.com/PChuuba), Storyboard: [@Sav/Toki](https://twitter.com/Tamokii), Scripting: [@PPpickleP](https://twitter.com/AutomataVivo))
+  - A mod for the game **VA-11 Hall-A: Cyberpunk Bartender Action** starring Yura. Relax with your favorite VTuber Dullahan. Pour a drink and share some tales. It's time to mix drinks and change the world! 
 
 # Disclaimer
 - This is an experimental project
