@@ -14,6 +14,8 @@
   - The official Prism Project Schedule which provides live video information and schedules.
 - [Luto Boin Boin](https://freelutomilk.github.io/) ([Source](https://github.com/freelutomilk/freelutomilk.github.io), [@LoupDuQc](https://twitter.com/LoupDuQc))
   - A totally accurate physic simulation of Luto's amazing boin boin, based on her April first stream.
+- [Iku Loves Mushrooms](https://www.ikulovesmushrooms.fyi) ([@Wall_EGer](https://twitter.com/Wall_EGer))
+  - A Website created for Iku Hoshifuri to show her love to mushrooms
 
 # Games
 - [Penpals' Eggsquisite Eggxhibit](https://eternalseraph8.github.io/ppp_game/) ([Source](https://github.com/EternalSeraph8/ppp_game), [@Eternal](https://twitter.com/EternalSeraph88))
@@ -25,4 +27,4 @@
 # Disclaimer
 - This is an experimental project
 - There is a possibility to change the policy and rules in the future
-- Please follow our [fanart guideline](https://www.prismproject.jp/terms )
+- Please follow our [fanart guideline](https://www.prismproject.jp/terms)
