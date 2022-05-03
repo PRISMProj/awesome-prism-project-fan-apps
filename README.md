@@ -1,4 +1,4 @@
-# Awesome-prism-fan-apps
+# Awesome-prism-project-fan-apps
 - A curated list of awesome fan-made apps and projects. Please feel free to submit a pull request to add your PRISM app with this format.
 - We’re happy to see wonderful fan-made PRISM apps and respect their creativity. For clippers, we created [Prism Clips](https://clips.prismproject.jp) to gather their lovely clips. We want to list fan-made PRISM apps for developers too. Thus, we created this repository to index their creativity.
 
