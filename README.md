@@ -1,6 +1,6 @@
 # Awesome-prism-project-fan-apps
 - A curated list of awesome fan-made apps and projects. Please feel free to submit a pull request to add your PRISM app with this format.
-- We’re happy to see wonderful fan-made PRISM apps and respect their creativity. For clippers, we created [Prism Clips](https://clips.prismproject.jp) to gather their lovely clips. We want to list fan-made PRISM apps for developers too. Thus, we created this repository to index their creativity.
+- We’re happy to see wonderful fan-made PRISM apps and respect their creativity.
 
 # Table of Contents
 * **[Web Apps](#web-apps)**
@@ -14,8 +14,6 @@
   - The official Prism Project Schedule which provides live video information and schedules.
 - [Luto Boin Boin](https://freelutomilk.github.io/) ([Source](https://github.com/freelutomilk/freelutomilk.github.io), [@LoupDuQc](https://twitter.com/LoupDuQc))
   - A totally accurate physic simulation of Luto's amazing boin boin, based on her April first stream.
-- [Iku Loves Mushrooms](https://www.ikulovesmushrooms.fyi) ([@Wall_EGer](https://twitter.com/Wall_EGer))
-  - A Website created for Iku Hoshifuri to show her love to mushrooms
 
 # Games
 - [Penpals' Eggsquisite Eggxhibit](https://eternalseraph8.github.io/ppp_game/) ([Source](https://github.com/EternalSeraph8/ppp_game), [@Eternal](https://twitter.com/EternalSeraph88))
@@ -27,4 +25,5 @@
 # Disclaimer
 - This is an experimental project
 - There is a possibility to change the policy and rules in the future
+- Download/Use these apps at your own risk as the files are hosted on third-party sources
 - Please follow our [fanart guideline](https://www.prismproject.jp/terms)
