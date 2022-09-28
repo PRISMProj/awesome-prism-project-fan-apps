@@ -1,0 +1,24 @@
+endtext[0] = "And so, our dear Hime vanquished the evil shrooms (press any key)";
+endtext[1] = "and reclaimed her precious BUFF OH beverage...";
+endtext[2] = "...";
+endtext[3] = "which may or may not have been changed";
+endtext[4] = "to avoid copyright infringement.";
+endtext[5] = "...";
+endtext[6] = "anyway...";
+endtext[7] = "thanks for playing!";
+endtext[8] = "...";
+endtext[9] = "Everything made by SuperDarkAqua";
+endtext[10] ="who you can find on Twitter and Twitch under the same name...";
+endtext[11] = "...";
+endtext[12] = "Music/SFX made in FL Studio";
+endtext[13] = "Art made in Clip Studio Paint";
+endtext[14] = "Created in GameMaker";
+endtext[15] = "Special thanks to Shaun Spalding's series of tutorials.";
+endtext[16] = "...";
+endtext[17] = "~Otsufuri~";
+
+spd = 0.5;
+letters = 0;
+currentline = 0;
+length = string_length(endtext[currentline]);
+text = "";

@@ -1,0 +1,1 @@
+audio_play_sound(snIkuminSong,100,true);

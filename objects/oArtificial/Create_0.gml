@@ -1,0 +1,1 @@
+audio_play_sound(snArtificial,100,true);

@@ -1,0 +1,3 @@
+ikumindir = image_xscale
+
+
